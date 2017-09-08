@@ -1,0 +1,21 @@
+G04 ---------------------------- Layer name :BOTTOM SOLDER LAYER*
+G04 easyEDA 0.1*
+G04 Scale: 100 percent, Rotated: No, Reflected: No *
+G04 Dimensions in inches *
+G04 leading zeros omitted , absolute positions ,2 integer and 4 * 
+%FSLAX24Y24*%
+%MOIN*%
+G90*
+G70D02*
+
+%ADD11C,0.055240*%
+
+%LPD*%
+G54D11*
+G01X5519Y9550D02*
+G01X5519Y9943D01*
+G01X480Y9943D02*
+G01X480Y9550D01*
+
+M00*
+M02*
